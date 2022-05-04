@@ -10,9 +10,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>klirent_http</artifactId>
+    <artifactId>klient_http</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>klirent_http</name>
+    <name>klient_http</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
